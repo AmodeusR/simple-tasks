@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+
+# Arquivos de banco de dados locais
+prisma/dev.db
+
+# Migrações do Prisma
+prisma/migrations/
+
+# Logs
+*.log
+
+# Configurações de IDE
+.vscode/
+.idea/
